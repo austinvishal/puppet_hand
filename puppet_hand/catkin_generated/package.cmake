@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "puppet_hand")
+set(puppet_hand_MAINTAINER "pramados <pramados@todo.todo>")
+set(puppet_hand_DEPRECATED "")
+set(puppet_hand_VERSION "0.0.0")
+set(puppet_hand_BUILD_DEPENDS "roscpp" "sensor_msgs" "tf" "baxter_core_msgs" "robot_model")
+set(puppet_hand_RUN_DEPENDS "roscpp" "sensor_msgs" "tf" "baxter_core_msgs" "robot_model")
+set(puppet_hand_BUILDTOOL_DEPENDS "catkin")

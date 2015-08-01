@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ecx/catkin_ws/src/puppet_listener/devel/setup.sh

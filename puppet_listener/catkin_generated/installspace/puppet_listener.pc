@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: puppet_listener
+Description: Description of puppet_listener
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

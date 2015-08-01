@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "puppet_listener")
+set(puppet_listener_MAINTAINER "pramados <pramados@todo.todo>")
+set(puppet_listener_DEPRECATED "")
+set(puppet_listener_VERSION "0.0.0")
+set(puppet_listener_BUILD_DEPENDS "roscpp" "tf" "baxter_core_msgs" "robot_model")
+set(puppet_listener_RUN_DEPENDS "roscpp" "tf" "baxter_core_msgs" "robot_model")
+set(puppet_listener_BUILDTOOL_DEPENDS "catkin")

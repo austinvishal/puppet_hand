@@ -1,0 +1,6 @@
+<launch>
+<node pkg = "puppet_hand" type = "puppet_hand_node" name = "puppetbroadcastrp" />
+
+<node pkg = "puppet_listener" type = "puppet_listener_node" name = "puppetlistenrv" />
+
+</launch>

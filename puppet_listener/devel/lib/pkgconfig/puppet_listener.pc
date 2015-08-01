@@ -1,0 +1,8 @@
+prefix=/home/ecx/catkin_ws/src/puppet_listener/devel
+
+Name: puppet_listener
+Description: Description of puppet_listener
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ecx/catkin_ws/src/puppet_listener/devel/lib 
+Requires: 

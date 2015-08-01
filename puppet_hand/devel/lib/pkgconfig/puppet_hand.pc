@@ -1,0 +1,8 @@
+prefix=/home/ecx/catkin_ws/src/puppet_hand/devel
+
+Name: puppet_hand
+Description: Description of puppet_hand
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ecx/catkin_ws/src/puppet_hand/devel/lib 
+Requires: 
